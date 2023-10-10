@@ -1,5 +1,7 @@
 # Exercice 8
 
+---
+
 ## Enoncé 
 
 1. Réalisez un ou plusieurs diagrammes d'objets à partir de votre diagramme de classe de la question 2 de l'[exercie 7](./exercice7.md).
@@ -8,6 +10,7 @@
 
 ***PS : créer une copie de votre diagramme de classe afin de pouvoir garder l'origine et pouvoir comparer par rapport aux modifications que vous allez apporter pour satisfaire les règles métiers*** 
 
+---
 
 ## Règles métiers à vérifier
 
